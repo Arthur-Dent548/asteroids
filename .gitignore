@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# README file
+README.md
+
+# Logger files
+game_state.jsonl
+logger.py
+
+
+uv.lock
